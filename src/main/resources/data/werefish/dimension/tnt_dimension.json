@@ -80,10 +80,7 @@
         }
       },
       "default_fluid": {
-        "Name": "minecraft:tnt",
-        "Properties": {
-          "unstable": "false"
-        }
+        "Name": "werefish:aperture"
       },
       "noise": {
         "min_y": 0,

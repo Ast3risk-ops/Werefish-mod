@@ -1,5 +1,14 @@
 {
+  "block.werefish.aperture": "Lego Stud",
+  "item.werefish.stud_armor_helmet": "Stud Armor Helmet",
+  "item.werefish.stud_armor_leggings": "Stud Armor Leggings",
+  "item.werefish.stud_armor_armor_leggings": "Stud_Armor Leggings",
+  "item.werefish.stud_armor_boots": "Stud Armor Boots",
+  "item.werefish.tnt_dimension": "TNT Dimension Portal Igniter",
   "entity.werefish.werewolf": "Werewolf",
-  "item.werefish.werewolf_spawn_egg": "Werewolf Spawn Egg",
-  "item.werefish.tnt_dimension": "TNT Dimension Portal Igniter"
+  "item.werefish.stud_armor_armor_boots": "Stud_Armor Boots",
+  "item.werefish.stud_armor_chestplate": "Stud Armor Body",
+  "item.werefish.stud_armor_armor_helmet": "Stud_Armor Helmet",
+  "item.werefish.stud_armor_armor_chestplate": "Stud_Armor Chestplate",
+  "item.werefish.werewolf_spawn_egg": "Werewolf Spawn Egg"
 }

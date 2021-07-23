@@ -1,0 +1,39 @@
+{
+  "group": "werefish",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "werefish:aperture"
+    },
+    "2": {
+      "item": "werefish:aperture"
+    },
+    "3": {
+      "item": "werefish:aperture"
+    },
+    "4": {
+      "item": "werefish:aperture"
+    },
+    "5": {
+      "item": "werefish:aperture"
+    },
+    "6": {
+      "item": "werefish:aperture"
+    },
+    "7": {
+      "item": "werefish:aperture"
+    },
+    "8": {
+      "item": "werefish:aperture"
+    }
+  },
+  "result": {
+    "item": "werefish:stud_armor_armor_chestplate",
+    "count": 1
+  }
+}

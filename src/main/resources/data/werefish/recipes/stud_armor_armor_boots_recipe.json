@@ -1,0 +1,26 @@
+{
+  "group": "werefish",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "werefish:aperture"
+    },
+    "2": {
+      "item": "werefish:aperture"
+    },
+    "3": {
+      "item": "werefish:aperture"
+    },
+    "5": {
+      "item": "werefish:aperture"
+    }
+  },
+  "result": {
+    "item": "werefish:stud_armor_armor_boots",
+    "count": 1
+  }
+}

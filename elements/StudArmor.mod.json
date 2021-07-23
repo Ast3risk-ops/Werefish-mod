@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "stud_armor_head",
+    "enableBody": true,
+    "textureBody": "stud_armor_body",
+    "enableLeggings": true,
+    "textureLeggings": "stud_armor_leggings",
+    "enableBoots": true,
+    "textureBoots": "stud_armor_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "stud_armor",
+    "helmetName": "Stud Armor Helmet",
+    "bodyName": "Stud Armor Body",
+    "leggingsName": "Stud Armor Leggings",
+    "bootsName": "Stud Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 210,
+    "damageValueHelmet": 62,
+    "damageValueBody": 57,
+    "damageValueLeggings": 44,
+    "damageValueBoots": 31,
+    "enchantability": 30,
+    "toughness": 10.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": "block.anvil.step"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Aperture"
+      }
+    ]
+  }
+}

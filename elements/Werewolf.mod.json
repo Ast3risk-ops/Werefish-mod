@@ -49,10 +49,10 @@
     "attackStrength": 14,
     "attackKnockback": 10.0,
     "knockbackResistance": 10.0,
-    "movementSpeed": 1.0,
+    "movementSpeed": 0.4,
     "armorBaseValue": 0.0,
-    "trackingRange": 79,
-    "health": 220,
+    "trackingRange": 100,
+    "health": 300,
     "xpAmount": 82,
     "waterMob": true,
     "flyingMob": true,
@@ -109,13 +109,13 @@
       "value": "Items.TIPPED_ARROW"
     },
     "rangedItemType": "Default item",
-    "spawnThisMob": false,
+    "spawnThisMob": true,
     "doesDespawnWhenIdle": false,
     "spawningProbability": 20,
     "mobSpawningType": "monster",
-    "minNumberOfMobsPerGroup": 4,
-    "maxNumberOfMobsPerGroup": 4,
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 5,
     "restrictionBiomes": [],
-    "spawnInDungeons": false
+    "spawnInDungeons": true
   }
 }

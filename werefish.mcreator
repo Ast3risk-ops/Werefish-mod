@@ -21,15 +21,108 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "werewolf"
+    },
+    {
+      "name": "Aperture",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aperture"
+    },
+    {
+      "name": "Stud_ArmorArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stud_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Stud_ArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stud_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "Stud_ArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stud_armor_armor_body_recipe"
+    },
+    {
+      "name": "Stud_ArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stud_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "Stud_ArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stud_armor_armor_boots_recipe"
+    },
+    {
+      "name": "StudArmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stud_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TNTIgniterRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tnt_igniter_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.werefish.aperture": "Lego Stud",
+      "item.werefish.stud_armor_helmet": "Stud Armor Helmet",
+      "item.werefish.stud_armor_leggings": "Stud Armor Leggings",
+      "item.werefish.stud_armor_armor_leggings": "Stud_Armor Leggings",
+      "item.werefish.stud_armor_boots": "Stud Armor Boots",
+      "item.werefish.tnt_dimension": "TNT Dimension Portal Igniter",
       "entity.werefish.werewolf": "Werewolf",
-      "item.werefish.werewolf_spawn_egg": "Werewolf Spawn Egg",
-      "item.werefish.tnt_dimension": "TNT Dimension Portal Igniter"
+      "item.werefish.stud_armor_armor_boots": "Stud_Armor Boots",
+      "item.werefish.stud_armor_chestplate": "Stud Armor Body",
+      "item.werefish.stud_armor_armor_helmet": "Stud_Armor Helmet",
+      "item.werefish.stud_armor_armor_chestplate": "Stud_Armor Chestplate",
+      "item.werefish.werewolf_spawn_egg": "Werewolf Spawn Egg"
     }
   },
   "foldersRoot": {

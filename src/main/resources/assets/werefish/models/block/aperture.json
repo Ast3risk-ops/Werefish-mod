@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "werefish:blocks/u0cio8gb1a171",
+    "up": "werefish:blocks/u0cio8gb1a171",
+    "north": "werefish:blocks/u0cio8gb1a171",
+    "east": "werefish:blocks/u0cio8gb1a171",
+    "south": "werefish:blocks/u0cio8gb1a171",
+    "west": "werefish:blocks/u0cio8gb1a171",
+    "particle": "werefish:blocks/u0cio8gb1a171"
+  }
+}

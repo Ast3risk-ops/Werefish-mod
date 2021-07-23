@@ -1,0 +1,16 @@
+{
+  "group": "werefish",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "werefish:tnt_dimension",
+    "count": 1
+  }
+}
