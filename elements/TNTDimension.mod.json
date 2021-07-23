@@ -15,7 +15,7 @@
     ],
     "worldGenType": "Normal world gen",
     "mainFillerBlock": {
-      "value": "Blocks.TNT"
+      "value": "CUSTOM:Aperture"
     },
     "fluidBlock": {
       "value": "CUSTOM:Aperture"
@@ -37,7 +37,7 @@
     "portalSound": {
       "value": "block.portal.ambient"
     },
-    "igniterName": "TNT Dimension Portal Igniter",
+    "igniterName": "Aperture Dimension Portal Igniter",
     "igniterTab": {
       "value": "MISC"
     },

@@ -54,6 +54,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.AbstractBlock;
 
 import net.mcreator.werefish.item.TNTDimensionItem;
+import net.mcreator.werefish.block.ApertureBlock;
 import net.mcreator.werefish.WerefishModElements;
 
 import javax.annotation.Nullable;
@@ -85,10 +86,10 @@ public class TNTDimensionDimension extends WerefishModElements.ModElement {
 			try {
 				ObfuscationReflectionHelper.setPrivateValue(WorldCarver.class, WorldCarver.CAVE, new ImmutableSet.Builder<Block>()
 						.addAll((Set<Block>) ObfuscationReflectionHelper.getPrivateValue(WorldCarver.class, WorldCarver.CAVE, "field_222718_j"))
-						.add(Blocks.TNT.getDefaultState().getBlock()).build(), "field_222718_j");
+						.add(ApertureBlock.block.getDefaultState().getBlock()).build(), "field_222718_j");
 				ObfuscationReflectionHelper.setPrivateValue(WorldCarver.class, WorldCarver.CANYON, new ImmutableSet.Builder<Block>()
 						.addAll((Set<Block>) ObfuscationReflectionHelper.getPrivateValue(WorldCarver.class, WorldCarver.CANYON, "field_222718_j"))
-						.add(Blocks.TNT.getDefaultState().getBlock()).build(), "field_222718_j");
+						.add(ApertureBlock.block.getDefaultState().getBlock()).build(), "field_222718_j");
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

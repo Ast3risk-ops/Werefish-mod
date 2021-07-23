@@ -74,10 +74,7 @@
       "sea_level": 63,
       "disable_mob_generation": false,
       "default_block": {
-        "Name": "minecraft:tnt",
-        "Properties": {
-          "unstable": "false"
-        }
+        "Name": "werefish:aperture"
       },
       "default_fluid": {
         "Name": "werefish:aperture"
