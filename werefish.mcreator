@@ -12,12 +12,23 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "Werewolf",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "werewolf"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "entity.werefish.werewolf": "Werewolf",
+      "item.werefish.werewolf_spawn_egg": "Werewolf Spawn Egg",
       "item.werefish.tnt_dimension": "TNT Dimension Portal Igniter"
     }
   },
