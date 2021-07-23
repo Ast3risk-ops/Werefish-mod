@@ -35,7 +35,7 @@ public class ApertureBlock extends WerefishModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(3.5f, 40f).setLightLevel(s -> 15)
-					.harvestLevel(1).harvestTool(ToolType.PICKAXE).setRequiresTool());
+					.harvestLevel(1).harvestTool(ToolType.PICKAXE).setRequiresTool().slipperiness(0.7999999999999999f).speedFactor(1.5f));
 			setRegistryName("aperture");
 		}
 
