@@ -17,6 +17,12 @@ authors="0398313, MCreator"
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.werefish]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.1.0]"
+    ordering="NONE"
+    side="BOTH"
 
 
 
